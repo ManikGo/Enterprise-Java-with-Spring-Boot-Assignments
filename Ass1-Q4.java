@@ -1,4 +1,4 @@
-//3. Write a program to print
+//4. Write a program to print
 public class Prac {
 
 	public static void main(String[] args) {
