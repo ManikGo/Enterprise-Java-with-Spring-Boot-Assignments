@@ -80,7 +80,7 @@ class Umpire{
 			}
 		}
 //MODIFICATION
-   //in this scenario if a player is nearby the GUESSER number then he have a chance to win this game
+   //in this scenario if a player is nearby the GUESSER number then he has a chance to win this game
 		
 		else if((numFromGuesser !=numFromPlayer1)&&(numFromGuesser !=numFromPlayer2)&&(numFromGuesser!=numFromPlayer3)){
 			if(numFromPlayer1>numFromPlayer2 && numFromPlayer1>numFromPlayer3) {
